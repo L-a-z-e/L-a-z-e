@@ -1,7 +1,3 @@
-### Hi, I'm Laze 👋
-
-Java & Spring 기반 백엔드 개발자
-
 #### 🔭 Projects
 
 | Project | Description |
