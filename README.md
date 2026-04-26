@@ -2,11 +2,13 @@
 
 | Project | Description |
 |---------|-------------|
-| [prism](https://github.com/L-a-z-e/prism) | AI Orchestration |
 | [portal-universe](https://github.com/L-a-z-e/portal-universe) | Portal Universe |
-| [settlement-system](https://github.com/L-a-z-e/settlement-system) | 정산 시스템 |
+| [ai-craft-hub](https://github.com/L-a-z-e/ai-craft-hub) | AI Craft Hub |
+| [search-api-optimization](https://github.com/L-a-z-e/search-api-optimization) | 이커머스 검색 최적화 |
+| [connection-pool-exhaustion](https://github.com/L-a-z-e/connection-pool-exhaustion) | connection-pool-exhaustion |
+| [flash-sale](https://github.com/L-a-z-e/flash-sale) | flash-sale |
+| [settlement-batch](https://github.com/L-a-z-e/settlement-batch) | settlement-batch |
 | [ecommerce-project](https://github.com/L-a-z-e/ecommerce-project) | E-Commerce 플랫폼 |
-| [delivery-service](https://github.com/L-a-z-e/delivery-service) | 배달 서비스 |
 
 #### 🛠 Tech Stack
 
@@ -17,12 +19,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-
-#### 🌱 Currently Learning
-
-- 알고리즘 & 코딩테스트
-- Reactive Programming (WebFlux)
-- AWS Infrastructure (Terraform)
 
 #### 📊 GitHub Stats
 
